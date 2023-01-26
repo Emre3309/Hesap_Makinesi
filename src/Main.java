@@ -4,9 +4,9 @@ public class Main {
     public static void main(String[] args) {
         Scanner klavye = new Scanner(System.in);
         System.out.println("----------HESAP MAKINESI---------");
-        System.out.print("Bir Gayi Giriniz : ");
+        System.out.print("Bir Sayi Giriniz : ");
         int a = klavye.nextInt();
-        System.out.print("Bir Gayi Giriniz : ");
+        System.out.print("Bir Sayi Giriniz : ");
         int b = klavye.nextInt();
         System.out.println("***** Bir Islem Seciniz ***** " +
                 "\n 1- Toplama : " +
